@@ -12,3 +12,11 @@ const student = {
 
 // template string
 console.log(`Hello, my name is ${student.name} and I'm ${student.age} years old.`);
+
+
+// NOTE: 
+// Template literals support multiline strings without the need for escape characters:
+// goto ES6/Template_literals/multi_line.js
+// Template literals also support expressions, allowing you to include more 
+// complex JavaScript code within the template:
+// goto ES6/Template_literals/expressions.js
