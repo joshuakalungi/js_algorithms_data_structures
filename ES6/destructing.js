@@ -24,3 +24,5 @@ const Student = {
 };
 
 printStudent(Student);
+
+
